@@ -224,24 +224,22 @@ others:"**
 
 >   And many more...
 
-**"With Cloud Computing being such an important part of today’s IT landscape,
+"With Cloud Computing being such an important part of today’s IT landscape,
 Oracle is investigating what possibilities the Cloud may offer for the Oracle
 Forms product and its customers. Using Oracle Forms in the Oracle Public Cloud
 could offer significant cost savings simply by reducing the typical cost of
 hardware upgrades and maintenance. For Independent Software Vendors (ISV), and
 other software providers, the use of the Oracle Public Cloud could make the
 delivery and accessibility of Oracle Forms based applications much easier and
-cost effective."**
-
-
-**"Also, a significant part of modern computing is mobile technologies. Working
+cost effective. Also, a significant part of modern computing is mobile technologies. Working
 closely with Oracle Partners, Oracle will continue to investigate possible
-mobile solutions and how they may apply to an Oracle Forms customer."**
+mobile solutions and how they may apply to an Oracle Forms customer."
 
 
 
 
-Tom lives and works in Edinburgh for Euromoney Indices. He has been an Oracle developer on and off for over fifteen years.
+**Tom lives and works in Edinburgh for Euromoney Indices. He has been an Oracle 
+developer on and off for over fifteen years.
 
 
 
