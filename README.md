@@ -1,3 +1,7 @@
+The following is a copy of an article I wrote for the Autumn 2017 edition of the UK
+Oracle User Group's (UKOUG) Oracle Scene Magazine describing how I upgraded a 
+fairly large (300+ forms) Oracle Forms V5 application to Oracle Forms 11g
+
 **A case study in upgrading an Oracle Forms 5 application to Oracle Forms 11g**
 
 Tom Reid
