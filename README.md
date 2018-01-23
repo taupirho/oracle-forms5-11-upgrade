@@ -1,7 +1,5 @@
-A case study in upgrading an Oracle Forms 5 application to Oracle Forms 11g
+**A case study in upgrading an Oracle Forms 5 application to Oracle Forms 11g**
 
-
-**Upgrading a Forms 5 application to Forms 11g**
 Tom Reid
 
 **For as long as I care to remember the demise of Oracle Forms as a tool for
@@ -161,9 +159,11 @@ reports. Ours were quite simple. Once the reports were in 11g format we
 turned our attention to how they were being called from Forms. It’s likely
 that your existing call to a report under Forms 5 will be something like
 this.
+
 ```
 Run_Product(REPORTS,'your_report.rdf', ASYNCHRONOUS,BATCH,FILESYSTEM,'paramdata', NULL);
 ```
+
 Under Forms 11g there are a couple of changes you have to make. The first
 thing you'll notice is that there is a new REPORT node in the object
 navigator. In here you define certain aspects of your report, such as its
@@ -201,10 +201,10 @@ Direction, last updated in March 2017 will assuage your concerns. NB The full
 article can be accessed at https://support.oracle.com (requires a login
 account). Search for Doc ID 2009262.1
 
-**Oracle continues its commitment to Oracle Forms.   New releases are being
+**"Oracle continues its commitment to Oracle Forms.   New releases are being
 planned and new features and other improvements are currently being reviewed. 
 New releases are planned to include some of the following, as well as many
-others:**
+others:"**
 
 -   Design-time productivity improvements
 
@@ -224,34 +224,30 @@ others:**
 
 >   And many more...
 
-**With Cloud Computing being such an important part of today’s IT landscape,
+**"With Cloud Computing being such an important part of today’s IT landscape,
 Oracle is investigating what possibilities the Cloud may offer for the Oracle
 Forms product and its customers. Using Oracle Forms in the Oracle Public Cloud
 could offer significant cost savings simply by reducing the typical cost of
 hardware upgrades and maintenance. For Independent Software Vendors (ISV), and
 other software providers, the use of the Oracle Public Cloud could make the
 delivery and accessibility of Oracle Forms based applications much easier and
-cost effective.**
+cost effective."**
 
 
-**Also, a significant part of modern computing is mobile technologies. Working
+**"Also, a significant part of modern computing is mobile technologies. Working
 closely with Oracle Partners, Oracle will continue to investigate possible
-mobile solutions and how they may apply to an Oracle Forms customer.**
-
-
-#
-#
-#
-
-
-|Tom lives and works in Edinburgh for Euromoney Indices. He has been an Oracle developer on and off for over fifteen years.|
-|---------------------------------------------------------------------------------------------------------------------------------|
+mobile solutions and how they may apply to an Oracle Forms customer."**
 
 
 
 
- ![](https://github.com/taupirho/oracle-forms5-11-upgrade/blob/master/image9.png)   **https://www.linkedin.com/in/tom-reid-5a2a3a/**
+Tom lives and works in Edinburgh for Euromoney Indices. He has been an Oracle developer on and off for over fifteen years.
 
 
 
-![](https://github.com/taupirho/oracle-forms5-11-upgrade/blob/master/image10.png)**thomas.reid\@gmail.com**
+
+![](https://github.com/taupirho/oracle-forms5-11-upgrade/blob/master/image9.png)   **https://www.linkedin.com/in/tom-reid/5a2a3a/**
+
+
+
+![](https://github.com/taupirho/oracle-forms5-11-upgrade/blob/master/image10.png)   **thomas.reid\@gmail.com**
