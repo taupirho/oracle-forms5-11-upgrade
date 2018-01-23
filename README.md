@@ -201,10 +201,10 @@ Direction, last updated in March 2017 will assuage your concerns. NB The full
 article can be accessed at https://support.oracle.com (requires a login
 account). Search for Doc ID 2009262.1
 
-**"Oracle continues its commitment to Oracle Forms.   New releases are being
+"Oracle continues its commitment to Oracle Forms.   New releases are being
 planned and new features and other improvements are currently being reviewed. 
 New releases are planned to include some of the following, as well as many
-others:"**
+others:"
 
 -   Design-time productivity improvements
 
@@ -239,7 +239,7 @@ mobile solutions and how they may apply to an Oracle Forms customer."
 
 
 **Tom lives and works in Edinburgh for Euromoney Indices. He has been an Oracle 
-developer on and off for over fifteen years.
+developer on and off for over fifteen years.**
 
 
 
