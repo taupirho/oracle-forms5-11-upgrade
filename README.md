@@ -107,7 +107,7 @@ each form.
 
 Although we preferred to convert each form individually by hand as it were there
 are utilities built into both Forms 6 and 11g builder that enable you to bulk
-convert forms. It’s your call. If all has went well you *should* get similar
+convert forms. It’s your call. If all has went well you **should** get similar
 results to what we achieved.
 
 The screen-shots below show an example of the same form - our main Stock Details
@@ -197,9 +197,9 @@ APEX but again if you’re happy with Forms then I would go for the Forms upgrad
 it really isn’t as complicated as you might think and I hope this article is of
 help to you. If you are at all worried about the future of Forms then perhaps
 the following snippet from Oracle - taken from their Oracle Forms Statement of
-Direction, last updated in March 2017 will assuage your concerns. NB The full
+Direction, last updated in March 2017 will assuage your concerns. **NB The full
 article can be accessed at https://support.oracle.com (requires a login
-account). Search for Doc ID 2009262.1
+account). Search for Doc ID 2009262.1**
 
 "Oracle continues its commitment to Oracle Forms.   New releases are being
 planned and new features and other improvements are currently being reviewed. 
